@@ -1,0 +1,31 @@
+吴恩达在coursera上的machine learning课程: https://www.coursera.org/learn/machine-learning/lecture/RKFpn/welcome
+
+李沐的课程：https://zhuanlan.zhihu.com/gluon
+
+线性代数公开课： http://open.163.com/special/opencourse/daishu.html
+
+深度学习 https://www.youtube.com/playlist?list=PLE6Wd9FR--EfW8dtjAuPoTuPcqmOV53Fu
+
+轩田老师的
+《机器学习基石》https://www.bilibili.com/video/av12463015/
+《机器学习技法》https://www.bilibili.com/video/av12469267/
+
+海交大张志华老师的
+《机器学习导论》http://ocw.sjtu.edu.cn/G2S/OCW/cn/CourseDetails.htm?Id=397
+《统计机器学习》http://ocw.sjtu.edu.cn/G2S/OCW/cn/CourseDetails.htm?Id=398
+
+写给大家看的机器学习书
+https://zhuanlan.zhihu.com/p/25328686
+
+七周成为数据分析师
+https://zhuanlan.zhihu.com/qinlu
+
+先把数学基础（数学分析/高等数学、线性代数、概率统计、离散数学等）打好最重要
+
+Tom.Mitchell的《机器学习》
+
+有了基础勤动手最重要，建议参加Kaggle比赛，里面有入门的一些机器学习向导。
+
+入门：
+
+https://tianchi.aliyun.com/competition/videoStream.html?spm=5176.8366600.0.0.5f5f7f38we3MO1#postsId=3206
