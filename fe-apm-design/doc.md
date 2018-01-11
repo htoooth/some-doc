@@ -145,5 +145,4 @@ influxdb 的使用中，我们也碰到了问题。例如：写入数据时 tag 
 
 以上就是我们有货前端团队 Web-APM 的实践分享，欢迎大家批评指正。
 
-
 [1]: https://www.zhihu.com/question/23212408/answer/56647975
